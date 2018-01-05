@@ -1,0 +1,51 @@
+h1{
+	color:green;
+}
+h3{
+	color:purple;
+}
+div{
+	top:1000px
+}
+#lottery{
+	color:red;
+	text-align:center;
+}
+body {
+	margin:0;
+	text-align: center!important;   
+}
+nav{
+	background-color:GREY;
+}
+nav ul li{
+	display:inline;
+}
+nav ul li a {text-decoration:none;
+	}
+	nav ul {margin:0;
+	}
+	nav ul {padding:10
+	}
+	h1{
+color:blue;
+}
+h2{
+color:green;
+}
+span{
+font-size:100px;
+}
+div{
+background-color:skyblue;
+width:300;
+height:200;		
+}
+.one{background-color:skyblue
+}
+.two{background-color:darkgrey 
+}
+label {
+    display: inline-block;
+    width: 7em; /* adjust to taste */
+}
